@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		1FB3CBC72501776000DF8868 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB3CBC62501776000DF8868 /* ItemDetail.swift */; };
+		1FB3CBC92501850D00DF8868 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB3CBC82501850D00DF8868 /* OrderView.swift */; };
+		1FB3CBCB250188C100DF8868 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB3CBCA250188C100DF8868 /* AppView.swift */; };
 		1FCEA7BD24FD92D200959457 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCEA7BC24FD92D200959457 /* AppDelegate.swift */; };
 		1FCEA7BF24FD92D200959457 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCEA7BE24FD92D200959457 /* SceneDelegate.swift */; };
 		1FCEA7C124FD92D200959457 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCEA7C024FD92D200959457 /* ContentView.swift */; };
@@ -23,6 +25,8 @@
 
 /* Begin PBXFileReference section */
 		1FB3CBC62501776000DF8868 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		1FB3CBC82501850D00DF8868 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		1FB3CBCA250188C100DF8868 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
 		1FCEA7B924FD92D200959457 /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FCEA7BC24FD92D200959457 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FCEA7BE24FD92D200959457 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,6 +77,8 @@
 				1FCEA7C024FD92D200959457 /* ContentView.swift */,
 				1FCEA7D824FEF7A400959457 /* ItemRow.swift */,
 				1FB3CBC62501776000DF8868 /* ItemDetail.swift */,
+				1FB3CBC82501850D00DF8868 /* OrderView.swift */,
+				1FB3CBCA250188C100DF8868 /* AppView.swift */,
 				1FCEA7D224FD935000959457 /* Order.swift */,
 				1FCEA7D024FD932D00959457 /* Helper.swift */,
 				1FCEA7D424FD935600959457 /* Menu.swift */,
@@ -171,7 +177,9 @@
 				1FCEA7D924FEF7A400959457 /* ItemRow.swift in Sources */,
 				1FCEA7D324FD935000959457 /* Order.swift in Sources */,
 				1FB3CBC72501776000DF8868 /* ItemDetail.swift in Sources */,
+				1FB3CBC92501850D00DF8868 /* OrderView.swift in Sources */,
 				1FCEA7C124FD92D200959457 /* ContentView.swift in Sources */,
+				1FB3CBCB250188C100DF8868 /* AppView.swift in Sources */,
 				1FCEA7D124FD932D00959457 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
