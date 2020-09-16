@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F0CD38125127C74001EFB22 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0CD38025127C74001EFB22 /* CheckoutView.swift */; };
 		1FB3CBC72501776000DF8868 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB3CBC62501776000DF8868 /* ItemDetail.swift */; };
 		1FB3CBC92501850D00DF8868 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB3CBC82501850D00DF8868 /* OrderView.swift */; };
 		1FB3CBCB250188C100DF8868 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB3CBCA250188C100DF8868 /* AppView.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F0CD38025127C74001EFB22 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		1FB3CBC62501776000DF8868 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		1FB3CBC82501850D00DF8868 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		1FB3CBCA250188C100DF8868 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
@@ -77,8 +79,9 @@
 				1FCEA7C024FD92D200959457 /* ContentView.swift */,
 				1FCEA7D824FEF7A400959457 /* ItemRow.swift */,
 				1FB3CBC62501776000DF8868 /* ItemDetail.swift */,
-				1FB3CBC82501850D00DF8868 /* OrderView.swift */,
 				1FB3CBCA250188C100DF8868 /* AppView.swift */,
+				1FB3CBC82501850D00DF8868 /* OrderView.swift */,
+				1F0CD38025127C74001EFB22 /* CheckoutView.swift */,
 				1FCEA7D224FD935000959457 /* Order.swift */,
 				1FCEA7D024FD932D00959457 /* Helper.swift */,
 				1FCEA7D424FD935600959457 /* Menu.swift */,
@@ -172,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FCEA7D524FD935600959457 /* Menu.swift in Sources */,
+				1F0CD38125127C74001EFB22 /* CheckoutView.swift in Sources */,
 				1FCEA7BD24FD92D200959457 /* AppDelegate.swift in Sources */,
 				1FCEA7BF24FD92D200959457 /* SceneDelegate.swift in Sources */,
 				1FCEA7D924FEF7A400959457 /* ItemRow.swift in Sources */,
